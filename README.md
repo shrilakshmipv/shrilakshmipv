@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrilakshmipv](https://github.com/shrilakshmipv)
 
-- 📫 How to reach me **https://www.linkedin.com/in/shrilakshmi-venkatesh/**
-
 - 📄 Know about my experiences [https://shrilakshmipv.github.io](https://shrilakshmipv.github.io/)
 
 - ⚡ Fun fact **Unlike many, I actually find software testing fun!**
